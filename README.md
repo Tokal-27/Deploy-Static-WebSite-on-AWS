@@ -26,7 +26,8 @@ The website should be distributed via Cloudfront.
 Is the website publicly accessible?
 
 from s3 
-![Uploading Screenshot from 2025-12-08 15-45-33.png…]()
+
+<img width="1874" height="1005" alt="Screenshot from 2025-12-08 15-45-33" src="https://github.com/user-attachments/assets/c461dee7-f20a-4b44-941e-ac302672da74" />
 
 from cloudfront 
 <img width="1874" height="1005" alt="Screenshot from 2025-12-08 15-45-03" src="https://github.com/user-attachments/assets/a7116d41-1103-41a3-9e88-fa289600fed1" />
