@@ -21,7 +21,9 @@ The permission access to the bucket should be configured.
 # Website Distribution
 The website should be distributed via Cloudfront.
 
-<img width="1874" height="1005" alt="Screenshot from 2025-12-08 15-44-15" src="https://github.com/user-attachments/assets/9b521871-cfd1-4d93-a449-787d5c4b1550" />
+<img width="1874" height="1005" alt="Screenshot from 2025-12-08 15-47-43" src="https://github.com/user-attachments/assets/3bbb6cfb-b9c1-4a6f-a643-cb74c4201523" />
+
+# Web Browser Access
 
 Is the website publicly accessible?
 
