@@ -1,3 +1,4 @@
+
 # Website Files 
 The student has created a S3 bucket
 
@@ -34,4 +35,6 @@ from s3
 from cloudfront 
 <img width="1874" height="1005" alt="Screenshot from 2025-12-08 15-45-03" src="https://github.com/user-attachments/assets/a7116d41-1103-41a3-9e88-fa289600fed1" />
 
-URL :[ d2wmr4tsbn426a.cloudfront.net](https://d2wmr4tsbn426a.cloudfront.net/)
+cloudfront  :[ d2wmr4tsbn426a.cloudfront.net](https://d2wmr4tsbn426a.cloudfront.net/)
+
+s3 endpoint : http://my-702127849341-bucket.s3-website-us-east-1.amazonaws.com
